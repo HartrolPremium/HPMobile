@@ -1,7 +1,7 @@
 # HPMobile
 ---
 **Mobile App of HartrolPremium**
-* Version:1.0
+* Version:2.0
 
 ## Display
 ---
@@ -9,11 +9,12 @@
 * Tool Data
 * Load
 * Axis
+* Utilization&DailyStatus(Version2.0)
 ## Operator
 * Tool Offset
 * QRcode search program
 * Keyboard
-
+* Calibration(Version2.0)
 ---
 
 HartrolPremium Monitor
