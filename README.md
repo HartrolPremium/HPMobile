@@ -1,7 +1,7 @@
 # HPMobile
 ---
 **Mobile App of HartrolPremium**
-* Version:2.0
+* Version:2.1
 
 ## Display
 ---
@@ -22,7 +22,6 @@ HartrolPremium Monitor
 
 Mobile Display
 ![Monitor-Mobile](./Resources/Monitor-Mobile.PNG)
-
 
 ## Contact Us
 ---
