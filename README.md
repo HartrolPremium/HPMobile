@@ -1,7 +1,7 @@
 # HPMobile
 ---
 **Mobile App of HartrolPremium**
-* Version:2.2
+* Version:3.1
 
 ## Display
 ---
@@ -15,6 +15,7 @@
 * QRcode search program
 * Keyboard
 * Calibration(Version2.0)
+* Program Image(Version3.1)
 ---
 
 HartrolPremium Monitor
